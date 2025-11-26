@@ -1,8 +1,8 @@
-Prediccion del desfase de salida de vuelo
+#Prediccion del desfase de salida de vuelo
 
-Interacción con el notebook:
+##Interacción con el notebook: 
 
-Se puede ejecutar este notebook de dos formas:
+###Se puede ejecutar este notebook de dos formas:
 
     - Localmente, clonando este repositorio y asegurándote de tener las dependencias instaladas.
 
